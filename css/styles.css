@@ -2,3 +2,15 @@
 
 body {
     background:rgba(97, 201, 149, 0.68);}
+
+
+@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
+
+/* styles.css */
+h1 {
+  color: #a10022;
+  font-family: 'Rammetto One',;
+  font-size: 6em;
+  text-transform: uppercase;
+  text-align: center;
+}
