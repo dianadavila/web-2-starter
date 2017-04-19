@@ -1,16 +1,15 @@
 /* Styling */
 
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light');
+
 body {
-    background:rgba(97, 201, 149, 0.68);}
+    background: black;
+}
 
-
-@import url('https://fonts.googleapis.com/css?family=Rammetto+One');
-
-/* styles.css */
 h1 {
   color: #a10022;
-  font-family: 'Rammetto One',;
   font-size: 6em;
+  font-family: 'Shadows Into Light', sans-serif;
   text-transform: uppercase;
   text-align: center;
 }
