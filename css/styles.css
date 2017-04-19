@@ -6,7 +6,18 @@ body {
     background: black;
 }
 
+h1 {
+    color:white;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 400;
+    text-align: center;    
+}
 
+
+h1 span:nth-child(even) {
+  color: orange; 
+}
 
 iframe { 
     width:100%;
